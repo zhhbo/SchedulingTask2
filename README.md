@@ -1,2 +1,2 @@
-# Wkong.SchedulingTask2
-orchard2前台计划任务
+# Wkong.SchedulingTask
+基于orchard队列修改而成的计划任务模块
